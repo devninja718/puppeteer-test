@@ -1,0 +1,108 @@
+{
+  "name": "Big Bear Frontier",
+  "address": "40472 Big Bear Boulevard, Big Bear Lake, CA 92315, United States of America ",
+  "description": " One of our top picks in Big Bear Lake.\nLocated on a private beach on the shores of Big Bear Lake, this resort offers free Wi-Fi and is 0.3 mi from the Alpine Slide at Magic Mountain. Guests can take advantage of the on-site swimming pool and hot tub.\nA refrigerator and a dining area are part of every room and villa at Big Bear Frontier. They have cable TV and are equipped with helpful amenities like a coffee maker and a hairdryer. Some rooms have fireplaces.\nGuests can fish or swim in the lake. A business center is also part of the pet-friendly resort.\nThe Big Bear Pirate Ship‎ is 0.4 mi away. Moonridge Animal Park is 11 minutes' drive from the resort. The nearest airport is Ontario Airport, 58 mi away.",
+  "image_urls": [
+    "https://cf.bstatic.com/images/hotel/max1024x768/121/12182537.jpg",
+    "https://cf.bstatic.com/images/hotel/max500/273/273756968.jpg",
+    "https://cf.bstatic.com/images/hotel/max500/224/224769874.jpg",
+    "https://cf.bstatic.com/images/hotel/max300/224/224769714.jpg",
+    "https://cf.bstatic.com/images/hotel/max300/224/224769601.jpg",
+    "https://cf.bstatic.com/images/hotel/max300/224/224769588.jpg",
+    "https://cf.bstatic.com/images/hotel/max300/224/224769577.jpg"
+  ],
+  "reviews": {
+    "aggregate_score": "8.0",
+    "total_reviews": "728 reviews"
+  },
+  "rooms_type": [
+    {
+      "sleeps_max": "4",
+      "beds": "2 queen beds"
+    },
+    {
+      "sleeps_max": "4",
+      "beds": "1 sofa bed  and 1 queen bed"
+    },
+    {
+      "sleeps_max": "4",
+      "beds": "1 sofa bed  and 1 queen bed"
+    },
+    {
+      "sleeps_max": "2",
+      "beds": "1 queen bed"
+    },
+    {
+      "sleeps_max": "2",
+      "beds": "1 king bed"
+    },
+    {
+      "sleeps_max": "6",
+      "beds": "1 sofa bed  and 2 queen beds"
+    },
+    {
+      "sleeps_max": "2",
+      "beds": "1 queen bed"
+    },
+    {
+      "sleeps_max": "2",
+      "beds": "1 queen bed"
+    }
+  ],
+  "amenities": {
+    "Outdoors": [
+      "Beachfront",
+      "Private beach area",
+      "BBQ facilities"
+    ],
+    "Pets": [
+      "Pets are allowed on request. Charges may apply."
+    ],
+    "Activities": [
+      "Beach",
+      "Hiking",
+      "Ping-pong",
+      "Pool table",
+      "Game room",
+      "Skiing",
+      "Fishing Additional charge",
+      "Golf course (within 2 miles) Additional charge"
+    ],
+    "Internet": [
+      "Free! WiFi is available in all areas and is free of charge."
+    ],
+    "Parking": [],
+    "Services": [
+      "Vending machine (snacks)",
+      "Vending machine (drinks)",
+      "Fax/Photocopying",
+      "Business center"
+    ],
+    "Safety & security": [
+      "Safe"
+    ],
+    "General": [
+      "Designated smoking area",
+      "Heating",
+      "Family rooms",
+      "Non-smoking rooms"
+    ],
+    " Outdoor swimming pool": [
+      "Free!\n All pools are free of charge",
+      "Open all year",
+      "Fenced pool",
+      "Beach chairs/Loungers",
+      "Heated pool",
+      "Shallow end"
+    ],
+    "Spa": [
+      "Beach chairs/Loungers",
+      "Hot tub/Jacuzzi"
+    ],
+    "Languages Spoken": [
+      "English",
+      "Spanish"
+    ]
+  },
+  "updateAt": "2021-03-27 03:14 am"
+}
